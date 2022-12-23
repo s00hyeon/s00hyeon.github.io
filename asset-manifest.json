@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/self-analysis-system/static/css/main.6056cc6c.css",
-    "main.js": "/self-analysis-system/static/js/main.deb94b31.js",
-    "static/js/787.b3185dde.chunk.js": "/self-analysis-system/static/js/787.b3185dde.chunk.js",
-    "index.html": "/self-analysis-system/index.html",
-    "main.6056cc6c.css.map": "/self-analysis-system/static/css/main.6056cc6c.css.map",
-    "main.deb94b31.js.map": "/self-analysis-system/static/js/main.deb94b31.js.map",
-    "787.b3185dde.chunk.js.map": "/self-analysis-system/static/js/787.b3185dde.chunk.js.map"
+    "main.css": "./static/css/main.6056cc6c.css",
+    "main.js": "./static/js/main.c7990a53.js",
+    "static/js/787.b3185dde.chunk.js": "./static/js/787.b3185dde.chunk.js",
+    "index.html": "./index.html",
+    "main.6056cc6c.css.map": "./static/css/main.6056cc6c.css.map",
+    "main.c7990a53.js.map": "./static/js/main.c7990a53.js.map",
+    "787.b3185dde.chunk.js.map": "./static/js/787.b3185dde.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6056cc6c.css",
-    "static/js/main.deb94b31.js"
+    "static/js/main.c7990a53.js"
   ]
 }
